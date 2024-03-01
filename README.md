@@ -11,7 +11,7 @@ An app, which starts the count by a value of 1 on clicking on count button, subt
 
 ## Technologies/Tools used
 - Java - used as a primary programming language for backend development.
-- Android Studio - IDE
+- Android Studio Hedgehog | 2023.1.1 Patch 2
 
 ## Preview
 
