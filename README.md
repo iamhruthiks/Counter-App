@@ -4,9 +4,9 @@
 An app, which starts the count by a value of 1 on clicking on count button, subtracts the count by a value of 1 and resets the count to 0 on clicking on the reset button.
 
 ## Features
-- starting the count by a value of 1.
-- subtracting the count by a value of 1.
-- resetting the count value to 0.
+- Starting the count by a value of 1
+- Subtracting the count by a value of 1
+- Resetting the count value to 0
 - Dark mode
 
 ## Technologies/Tools used
